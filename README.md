@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+### Quem sou eu?
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -19,7 +21,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px"/>
            
- 
+ ## Status
+ [![marcelocmedeiros's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelocmedeiros&hide=prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/marcelocmedeiros/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocmedeiros&theme=dracula&layout=compact)](https://github.com/marcelocmedeiros/github-readme-stats)
 <!--
 **marcelocmedeiros/marcelocmedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
