@@ -22,8 +22,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px"/>
            
  ## Status
+ <div align="center">
+           
  [![marcelocmedeiros's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelocmedeiros&hide=prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/marcelocmedeiros/github-readme-stats)
+ 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocmedeiros&theme=dracula&layout=compact)](https://github.com/marcelocmedeiros/github-readme-stats)
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=marcelocmedeiros&theme=dracula&rank=C,B,A,AA,AAA,S,SS,SSS&margin-w=15&column=2)](https://github.com/marcelocmedeiros/github-profile-trophy)
+ 
+ </div>
 <!--
 **marcelocmedeiros/marcelocmedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
