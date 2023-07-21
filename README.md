@@ -1,10 +1,16 @@
 ## Olá, seja muito bem-vindo ao meu GitHub 👋
 
-### 👨‍💻Quem sou eu?👨‍💻
+### 👨‍💻 Quem sou eu? 👨‍💻
+Eu sou Marcelo, sou graduado em Análise e Desenvolvimento de Sistemas, atualmente sou aluno da [Escola de Formação Dev ](https://escola.formacao.dev/)da organização COD3R para formação de programadores Full Stack. 
+
 - 🔭 Atualmente procuro oportunidades de estágios, trabalho voluntário e programador Júnior. 
 - 🌱 Atualmente estou aprendendo TypeScrip, MongoDB e React  
 - 🤝 Estou pronto para colabora em projetos presenciais e remotos. 
 - ⚡ Fato cururiso: gosto de culinaria e desenvolvimento pessoal.
+
+## 🗃️ O que você encontra no meu Github 🗃️
+- 👨‍💻 Projetos da Escola Formação Dev 
+- 🖥️ Alguns códigos de aulas e estudos individuais  
 
 ## 🌟 Tecnologias que mais utilizo atualmente 🌟
 ![- HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
