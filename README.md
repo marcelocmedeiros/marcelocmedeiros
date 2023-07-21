@@ -42,7 +42,7 @@ Eu sou Marcelo, sou graduado em Análise e Desenvolvimento de Sistemas, atualmen
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
+<!--
 ## Status
 
 <div align="center">
@@ -54,7 +54,7 @@ Eu sou Marcelo, sou graduado em Análise e Desenvolvimento de Sistemas, atualmen
  [![trophy](https://github-profile-trophy.vercel.app/?username=marcelocmedeiros&theme=dracula&rank=C,B,A,AA,AAA,S,SS,SSS&margin-w=15&column=2)](https://github.com/marcelocmedeiros/github-profile-trophy)
  
  </div>
-
+-->
 ## Me encontre
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelocmdev/)
