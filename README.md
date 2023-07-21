@@ -6,19 +6,24 @@
 - 🤝 Estou pronto para colabora em projetos presenciais e remotos. 
 - ⚡ Fato cururiso: gosto de culinaria e desenvolvimento pessoal.
 
-## 🌟 Tecnologias que estou trabalhando atualmente 🌟
+## 🌟 Tecnologias que mais utilizo atualmente 🌟
 ![- HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![- CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![- Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![- NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-          
+![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
- ## ⭐ Tecnologias que já tive contato ⭐
+## 🌟 Tecnologias que atualmente estou aprendendo🌟
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px"/>
+## ⭐ Tecnologias que já tive contato ⭐
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
            
- ## Status
- <div align="center">
+## Status
+<div align="center">
            
  [![marcelocmedeiros's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelocmedeiros&hide=prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/marcelocmedeiros/github-readme-stats)
  
