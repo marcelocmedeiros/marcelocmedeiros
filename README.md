@@ -1,4 +1,5 @@
-## Olá, seja muito bem-vindo ao meu GitHub 👋
+<!-- ## Olá, seja muito bem-vindo ao meu GitHub 👋 -->
+![Imagem de boasvindas](./linkedln-Banner.png)
 
 ### 👨‍💻 Quem sou eu? 👨‍💻
 
