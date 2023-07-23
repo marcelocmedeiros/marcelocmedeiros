@@ -55,7 +55,7 @@ Eu sou Marcelo, sou graduado em Análise e Desenvolvimento de Sistemas, atualmen
  
  </div>
 -->
-## Me encontre
+## 🔍 Contatos
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelocmdev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marcelocmdev@gmail.com)
