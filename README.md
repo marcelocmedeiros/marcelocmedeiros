@@ -43,6 +43,15 @@ Eu sou Marcelo, sou graduado em Análise e Desenvolvimento de Sistemas, atualmen
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+## Status
+
+<div>
+           
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcelocmedeiros&theme=aura_dark)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcelocmedeiros&theme=aura_dark)
+ 
+ </div>
 <!--
 ## Status
 
