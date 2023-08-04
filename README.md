@@ -46,12 +46,19 @@ Eu sou Marcelo, sou graduado em Análise e Desenvolvimento de Sistemas, atualmen
 
 ## Status
 
-<div>
+<div>   
            
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcelocmedeiros&theme=aura_dark)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcelocmedeiros&theme=aura_dark)
+  
+ </div>
+
+ <div>   
+   
+ [![trophy](https://github-profile-trophy.vercel.app/?username=marcelocmedeiros&theme=dracula&rank=C,B,A,AA,AAA,S,SS,SSS&margin-w=15&column=6)](https://github.com/marcelocmedeiros/github-profile-trophy) 
  
  </div>
+
 <!--
 ## Status
 
